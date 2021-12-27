@@ -1,0 +1,3 @@
+edge_type_id target_query source_query delay distance_range syn_weight target_sections model_template dynamics_params
+127 pop_name=='['CP']' * 0.0 "[0.0, 300.0]" 1 ['dend'] pyr2pyr Thal2CP.json
+128 pop_name=='['CS']' * 0.0 "[0.0, 300.0]" 1 ['dend'] pyr2pyr Thal2CS.json

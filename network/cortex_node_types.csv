@@ -1,0 +1,9 @@
+node_type_id pop_name morphology model_type model_template
+100 CP blank.swc biophysical hoc:CP_Cell
+101 CS blank.swc biophysical hoc:CS_Cell
+102 FSI blank.swc biophysical hoc:FSI_Cell
+103 LTS blank.swc biophysical hoc:LTS_Cell
+104 CP blank.swc biophysical hoc:CP_Cell
+105 CS blank.swc biophysical hoc:CS_Cell
+106 FSI blank.swc biophysical hoc:FSI_Cell
+107 LTS blank.swc biophysical hoc:LTS_Cell
