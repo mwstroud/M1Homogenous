@@ -1,7 +1,7 @@
-# M1ten_thousand
+# M1 Homogenous network
 
 Matt Stroud, Tyler Banks, and Feng Feng
-A ten thousand cell network of the primary motor cortex with 4 unique cell types in layer 5A and 5B: CP, CS, FSI, and LTS. Utilizes distance dependent connections for more realism.
+A one thousand cell network of the primary motor cortex with 4 unique cell types in layer 5A and 5B: CP, CS, FSI, and LTS. 
 
 
 There are 3 experiments to run:
